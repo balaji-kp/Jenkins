@@ -1,5 +1,5 @@
 date
 echo "hello world"
 nslookup google.com
-yum install httpd git -y
-service httpd start
+sudo yum install httpd git -y
+sudo service httpd start
